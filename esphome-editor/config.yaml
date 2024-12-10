@@ -1,0 +1,21 @@
+name: "ESPHome Editor"
+description: "Streamline the creation and management of YAML configurations for ESPHome when handling multiple similar components or deploying numerous identical devices."
+version: "0.1.0"
+url: https://github.com/Morcatko/EspHome-Editor
+slug: "esphome_editor"
+panel_title: "ESPHome Editor"
+init: false
+homeassistant_api: true
+hassio_api: true
+hassio_role: manager
+host_network: true
+#apparmor: false
+map:
+  - type: addon_config
+    read_only: false
+    path: /app/work-folder/
+ingress: true
+ingress_port: 3000
+image: morcatko/esphome-editor
+arch:
+  - amd64
