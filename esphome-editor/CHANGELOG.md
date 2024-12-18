@@ -1,1 +1,1 @@
-See changelog on [ESPHome-Editor github](https://github.com/Morcatko/EspHome-Editor/blob/main/CHANGELOG.md)
+See changelog on [Editor for ESPHome github](https://github.com/Morcatko/EspHome-Editor/blob/main/CHANGELOG.md)
