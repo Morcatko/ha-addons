@@ -6,6 +6,7 @@ version: 0.2.0
 url: https://github.com/Morcatko/EspHome-Editor
 slug: esphome_editor
 panel_title: Editor for ESPHome
+panel_icon: mdi:storefront-edit-outline
 init: false
 homeassistant_api: true
 hassio_api: true
