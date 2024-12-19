@@ -7,5 +7,5 @@
 
 This repository contains the following add-ons
 
-### [ESPHome-Editor](./esphome-editor)
+### [Editor for ESPHome](./esphome-editor)
 _Streamline the creation and management of YAML configurations for ESPHome when handling multiple similar components or deploying numerous identical devices._
