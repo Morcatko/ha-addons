@@ -2,7 +2,7 @@ name: Editor for ESPHome
 description: Streamline the creation and management of YAML configurations for
   ESPHome when handling multiple similar components or deploying numerous
   identical devices.
-version: 0.6.0
+version: 0.7.0
 url: https://github.com/Morcatko/EspHome-Editor
 slug: esphome_editor
 panel_title: Editor for ESPHome
