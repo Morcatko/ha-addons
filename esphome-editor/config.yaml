@@ -17,7 +17,7 @@ map:
     read_only: false
     path: /app/work-folder/
 ingress: true
-ingress_port: 3000
+ingress_port: 50106
 image: morcatko/esphome-editor
 arch:
   - amd64
