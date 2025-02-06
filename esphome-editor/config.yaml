@@ -2,13 +2,12 @@ name: Editor for ESPHome
 description: Streamline the creation and management of YAML configurations for
   ESPHome when handling multiple similar components or deploying numerous
   identical devices.
-version: 0.9.0
+version: 0.10.0
 url: https://github.com/Morcatko/EspHome-Editor
 slug: esphome_editor
 panel_title: Editor for ESPHome
 panel_icon: mdi:storefront-edit-outline
 init: false
-homeassistant_api: true
 hassio_api: true
 hassio_role: manager
 host_network: true
@@ -17,7 +16,9 @@ map:
     read_only: false
     path: /app/work-folder/
 ingress: true
-ingress_port: 3000
+env:
+  PORT: 50106
+ingress_port: 50106
 image: morcatko/esphome-editor
 arch:
   - amd64
