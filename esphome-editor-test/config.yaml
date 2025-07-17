@@ -1,9 +1,9 @@
-name: "Editor for ESPHome (Dev)"
+name: "Editor for ESPHome (Version Test)"
 description: "Dev version of ESPHome-Editor add-on!"
 version: 0.1.0
 url: https://github.com/Morcatko/EspHome-Editor
-slug: "esphome_editor_dev"
-panel_title: "Editor for ESPHome (Dev)"
+slug: "esphome_editor_test"
+panel_title: "Editor for ESPHome (Version Test)"
 panel_icon: mdi:storefront-edit-outline
 init: false
 hassio_api: true
