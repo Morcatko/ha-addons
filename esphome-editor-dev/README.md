@@ -10,4 +10,4 @@ See [Documentation](https://editor-4-esphome.github.io/) for more info and how t
 <img title="Editor for ESPHome" src="https://github.com/Morcatko/ha-addons/raw/main/esphome-editor/images/screenshot.png" width="700px"></img>
 </p>
 
-More info [Editor for ESPHome github](https://github.com/Morcatko/EspHome-Editor/blob/main/README.md)
+[Editor for ESPHome github](https://github.com/Morcatko/EspHome-Editor/blob/main/README.md)
