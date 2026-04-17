@@ -5,7 +5,7 @@ description: Streamline the creation and management of YAML configurations for
 url: https://github.com/Morcatko/EspHome-Editor
 slug: esphome_editor
 image: morcatko/esphome-editor
-version: 0.26.0
+version: 0.27.0
 panel_title: Editor for ESPHome
 panel_icon: mdi:storefront-edit-outline
 init: false
